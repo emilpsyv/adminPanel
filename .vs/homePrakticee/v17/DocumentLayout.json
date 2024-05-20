@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emil\\Desktop\\code academy task\\task 21\\homePrakticee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4F4356-8AC6-4F75-9625-06F0F7E1B2A9}|homePrakticee\\homePrakticee.csproj|c:\\users\\emil\\desktop\\code academy task\\task 21\\homeprakticee\\homeprakticee\\viewmodels\\sliders\\createslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4F4356-8AC6-4F75-9625-06F0F7E1B2A9}|homePrakticee\\homePrakticee.csproj|solutionrelative:homeprakticee\\viewmodels\\sliders\\createslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4F4356-8AC6-4F75-9625-06F0F7E1B2A9}|homePrakticee\\homePrakticee.csproj|c:\\users\\emil\\desktop\\code academy task\\task 21\\homeprakticee\\homeprakticee\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4F4356-8AC6-4F75-9625-06F0F7E1B2A9}|homePrakticee\\homePrakticee.csproj|solutionrelative:homeprakticee\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4F4356-8AC6-4F75-9625-06F0F7E1B2A9}|homePrakticee\\homePrakticee.csproj|c:\\users\\emil\\desktop\\code academy task\\task 21\\homeprakticee\\homeprakticee\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC4F4356-8AC6-4F75-9625-06F0F7E1B2A9}|homePrakticee\\homePrakticee.csproj|solutionrelative:homeprakticee\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4F4356-8AC6-4F75-9625-06F0F7E1B2A9}|homePrakticee\\homePrakticee.csproj|c:\\users\\emil\\desktop\\code academy task\\task 21\\homeprakticee\\homeprakticee\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC4F4356-8AC6-4F75-9625-06F0F7E1B2A9}|homePrakticee\\homePrakticee.csproj|solutionrelative:homeprakticee\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4F4356-8AC6-4F75-9625-06F0F7E1B2A9}|homePrakticee\\homePrakticee.csproj|c:\\users\\emil\\desktop\\code academy task\\task 21\\homeprakticee\\homeprakticee\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC4F4356-8AC6-4F75-9625-06F0F7E1B2A9}|homePrakticee\\homePrakticee.csproj|solutionrelative:homeprakticee\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4F4356-8AC6-4F75-9625-06F0F7E1B2A9}|homePrakticee\\homePrakticee.csproj|c:\\users\\emil\\desktop\\code academy task\\task 21\\homeprakticee\\homeprakticee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4F4356-8AC6-4F75-9625-06F0F7E1B2A9}|homePrakticee\\homePrakticee.csproj|solutionrelative:homeprakticee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSliderVM.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\code academy task\\task 21\\homePrakticee\\homePrakticee\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "RelativeDocumentMoniker": "homePrakticee\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\code academy task\\task 21\\homePrakticee\\homePrakticee\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "RelativeToolTip": "homePrakticee\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:06:45.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\code academy task\\task 21\\homePrakticee\\homePrakticee\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "homePrakticee\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\code academy task\\task 21\\homePrakticee\\homePrakticee\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "homePrakticee\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:25:31.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\code academy task\\task 21\\homePrakticee\\homePrakticee\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "homePrakticee\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\code academy task\\task 21\\homePrakticee\\homePrakticee\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "homePrakticee\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:20:28.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\code academy task\\task 21\\homePrakticee\\homePrakticee\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "homePrakticee\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\code academy task\\task 21\\homePrakticee\\homePrakticee\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "homePrakticee\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:09:33.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\code academy task\\task 21\\homePrakticee\\homePrakticee\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "homePrakticee\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\code academy task\\task 21\\homePrakticee\\homePrakticee\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "homePrakticee\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwFQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:48:14.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\code academy task\\task 21\\homePrakticee\\homePrakticee\\Program.cs",
+              "RelativeDocumentMoniker": "homePrakticee\\Program.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\code academy task\\task 21\\homePrakticee\\homePrakticee\\Program.cs",
+              "RelativeToolTip": "homePrakticee\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:47:08.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
